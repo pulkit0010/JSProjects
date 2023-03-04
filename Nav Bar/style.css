@@ -1,0 +1,23 @@
+.nav{
+    top: 0%;
+    background-color: #212529;
+    list-style: none;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    border: 3px solid #212529 ;
+}
+.list-elements{
+    display: inline;
+    /* margin: 0px 10px; */
+    margin: 0px;
+    padding: 0px 10px;
+    font-family: 'Paytone One', sans-serif;
+    font-weight: bolder;
+    color: #f8f9fa;
+}
+.list-elements:hover{
+    color: #fcf300;
+    cursor: pointer;
+
+}
